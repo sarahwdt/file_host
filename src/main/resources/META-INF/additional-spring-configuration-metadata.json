@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "service.filesystem.root",
+      "type": "java.lang.String",
+      "description": "Description for service.filesystem.root."
+  }
+] }
